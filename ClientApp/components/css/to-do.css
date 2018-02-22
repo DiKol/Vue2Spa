@@ -1,0 +1,13 @@
+.bt-d {
+    width: 150px;
+    padding: 5px;
+    display: none;
+}
+.pa {
+    padding: 10px;
+}
+
+.pa-none {
+    padding: 10px;
+    display:none;
+}
